@@ -41,3 +41,5 @@ sp5-chap02/src/main/java/.metadata/.plugins/org.eclipse.ui.workbench/dialog_sett
 sp5-chap02/src/main/java/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml
 sp5-chap02/src/main/java/.metadata/version.ini
 sp5-chap02/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+sp5-chap02/.classpath
+sp5-chap02/.project
