@@ -43,3 +43,6 @@ sp5-chap02/src/main/java/.metadata/version.ini
 sp5-chap02/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 sp5-chap02/.classpath
 sp5-chap02/.project
+sp5-chap02/.settings/org.eclipse.jdt.core.prefs
+sp5-chap02/.settings/org.eclipse.m2e.core.prefs
+sp5-chap02/.settings/org.eclipse.core.resources.prefs
